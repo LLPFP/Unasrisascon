@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Unas risas con...</title>
+    <link>https://rssfpllefialopez.000webhostapp.com</link>
+    <item>
+      <title>Audio 1</title>
+      <link>https://rssfpllefialopez.000webhostapp.com/audio/1.mp3</link>
+      <description>Primer audio de la pagina</description>
+    </item>
+    <item>
+      <title>Audio 2</title>
+      <link>https://rssfpllefialopez.000webhostapp.com/audio/2.mp3</link>
+      <description>Segundo audio de la pagina</description>
+    </item>
+    <item>
+      <title>Audio 3</title>
+      <link>https://rssfpllefialopez.000webhostapp.com/audio/3.mp3</link>
+      <description>Tercer audio de la pagina</description>
+    </item>
+  </channel>
+</rss>
